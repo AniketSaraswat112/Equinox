@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=JetBrains+Mono:wght@300;400;500&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Crimson Pro", "Georgia", serif;
+  --font-display: "Cormorant Garamond", "Garamond", serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --color-cream: #F3EFE4;
+  --color-cream-dark: #EBE6D7;
+  --color-ink: #161310;
+  --color-ink-soft: #2A241F;
+  --color-ink-mute: #5C5448;
+  --color-burgundy: #6F1F2A;
+  --color-burgundy-bright: #8C2A37;
+  --color-gold: #A88A47;
+  --color-gold-soft: #C9B47A;
+}
+
+/* Custom background pattern reminiscent of high-end watermarked bond paper */
+.paper-grain {
+  background-color: #F3EFE4;
+  background-image: 
+    radial-gradient(rgba(168, 138, 71, 0.05) 1px, transparent 1px),
+    radial-gradient(rgba(22, 19, 16, 0.03) 1px, transparent 1px);
+  background-size: 24px 24px, 8px 8px;
+  background-position: 0 0, 4px 4px;
+}
+
+/* Elegant visual separators */
+.firm-crest {
+  display: inline-flex;
+  border-radius: 50%;
+  border: 1px solid currentColor;
+  aspect-ratio: 1;
+  align-items: center;
+  justify-content: center;
+}
