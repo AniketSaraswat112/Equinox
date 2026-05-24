@@ -83,7 +83,7 @@ export default function EnquiryForm() {
             <div>
               <div className="font-mono text-[10px] uppercase tracking-wider text-ink-mute mb-1">The Law Firm Location</div>
               <div className="font-display text-xl text-ink font-medium leading-relaxed">
-                Ground Floor, Plot No. 78,<br />Sector 44, Gurugram, India
+                Plot No. 100,<br />Sector 28, Gurugram, Haryana
               </div>
             </div>
           </div>
