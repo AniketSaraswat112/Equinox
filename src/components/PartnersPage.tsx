@@ -20,13 +20,16 @@ export default function PartnersPage({ setActiveTab, navigateToHomeSection }: Pa
       initials: "AS",
       barEnrollment: "Enrolled Practitioner, Delhi High Court & Supreme Court of India",
       education: "B.A. LL.B. (Hons.) · Specialized training in Administrative Law",
-      description: "Aditya specializes in public procurement regulations, government contracts, and administrative law. He leads the team representing contractors, OEMs, and key tech service providers challenging arbitrary technical exclusions, debarments, and roll-on moratoriums on the Government e-Marketplace (GeM) system.",
+      description: "Aditya has 3+ years of experience in the legal fraternity, with focused expertise across Government e-Marketplace (GeM) procurement, tender disqualifications, regulatory compliance, contracts, and intellectual property rights. He brings hands-on experience in leading legal teams, steering high-stakes contract negotiations, structuring vendor and supply agreements, and advising management on commercial risk allocation. He has represented contractors, OEMs, and key tech service providers in challenging arbitrary technical exclusions, debarments, and roll-on moratoriums on the Government e-Marketplace (GeM) system, while also handling end-to-end contract lifecycle management, dispute resolution, and stakeholder coordination across procuring authorities and ministries.",
       highlights: [
-        "Challenged 20+ arbitrary debarment circulars before the High Court",
-        "Expert strategist on natural justice rights in portal-level suspensions",
-        "Advised top technology manufacturers on public tender eligibility rules"
+        "Drafted complete corporate structure, SOPs, and compliance frameworks for multiple companies",
+        "Led cross-functional legal teams and managed contract negotiations across B2G and B2B engagements",
+        "Challenged 100+ arbitrary debarments",
+        "Expert strategist in portal-level suspensions",
+        "Advised top technology manufacturers on public tender eligibility rules",
+        "Structured master service agreements, NDAs, and MoUs aligned with statutory compliance requirements"
       ],
-      email: "aditya.saraswat@equinox.co.in"
+      email: "aditya@firm.in"
     },
     {
       name: "Shweta Kumari",
@@ -68,13 +71,14 @@ export default function PartnersPage({ setActiveTab, navigateToHomeSection }: Pa
       initials: "AN",
       barEnrollment: "Corporate Advisory Counsel",
       education: "LL.B. · Certified Compliance Professional",
-      description: "Ambika heads the corporate compliance and certification wings. She guides enterprises through statutory licensing, MSME / Startup recognition initiatives, GeM registration protocols, and structural due diligence. She ensures strict adherence to modern corporate governance standards.",
+      description: "Procurement and compliance professional with expertise in GeM onboarding, MSME/vendor support, payment reconciliation, certification compliance, trademark filing, vendor assessment, EXIM coordination, import-export and customs law compliance, and end-to-end contract execution. Experienced in managing BIS, BEE, EPR, ISO 9001/14001/27001, and ZED MSME compliance requirements for vendors and government procurement projects.",
       highlights: [
-        "Pioneered GeM vendor assessment and catalog compliance frameworks",
-        "Structured seed & Series-A finance acquisitions for deep-tech ventures",
-        "Drafted over 400+ customized modern commercial contracts and SLA terms"
+        "End-to-End Procurement Expertise – Strong command over complete GeM and procurement lifecycle management, from vendor onboarding and compliance to contract execution and payment reconciliation.",
+        "Regulatory & Certification Compliance – Expertise in handling BIS, BEE, EPR, ISO, ZED MSME, trademark, and government procurement compliance requirements for vendors and MSMEs.",
+        "Import-Export & Customs Law Compliance – Skilled in handling EXIM documentation, IEC code management, customs clearances, classification under HSN/ITC(HS), FTP compliance, and coordination with CHAs, freight forwarders, and DGFT authorities for cross-border procurement of IT hardware and components.",
+        "Vendor & Stakeholder Management – Skilled in vendor assessment, due diligence, buyer coordination, issue resolution, and maintaining compliant, efficient procurement operations across government ecosystems."
       ],
-      email: "ambika.negi@equinox.co.in"
+      email: "ambika@equinoxlegal.in"
     },
     {
       name: "Rishi Raj Singh",
